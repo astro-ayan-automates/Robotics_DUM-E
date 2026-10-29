@@ -16,4 +16,4 @@ Welcome to the development repository for **DUM-E**, a custom robotic arm system
 * **Development Environment:** VS Code & GitHub Ecosystem.
 
 ##  Open Source & Ethics
-This project is officially protected under the **GNU General Public License v3.0 (GPL-3.0)**. Any derivative school competition / institution / personnel / self-employed person builds utilizing this codebase must maintain open-source transparency and provide explicit attribution to the original author.
+This project is officially protected under the **GNU General Public License v3.0 (GPL-3.0)**. Any derivative school competition / institution / personnel / self-employed person builds utilizing this codebase must maintain open-source transparency and provide explicit attribution to the original author @astro-ayan-automates , and co-developer krishiv3452-cloud .
